@@ -1,6 +1,6 @@
 MIT 6.00.1x - Introduction to Computer Science and Programming Using Python
 
-These are my implementation of the Problem Sets for the "MIT 6.00.1x - Introduction to Computer Science and Programming Using Python" course.
+These are my implementations of the Problem Sets for the "MIT 6.00.1x - Introduction to Computer Science and Programming Using Python" course.
 
 This course started on 30th August 2018 and ended on 2nd November 2018.
 
