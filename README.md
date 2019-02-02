@@ -5,12 +5,19 @@ These are my implementations of the Problem Sets for the "MIT 6.00.1x - Introduc
 This course started on 30th August 2018 and ended on 2nd November 2018.
 
 This repository has the following files:
+
   • 6.00.1x-pset2.py - Problem Set 2
+  
   • 6.00.1x-pset3.py - Problem Set 3 "A hangman game"
+  
   • 6.00.1x-pset4.py - Problem Set 4 "A wordgame"
+  
   • 6.00.1x-pset5.py - Problem Set 5 "Caesar Cipher Program"
+  
   • story.txt - A "Caesar cipher" encrypted story, used on Problem Set 5
+  
   • word.txt - A file containing a few thousand words used on Problem Sets 4 & 5
+  
 
 Other Problem Sets were not included because they were just questions with multiple choice answers.
   
